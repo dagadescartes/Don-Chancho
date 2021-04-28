@@ -1,0 +1,20 @@
+Naranja
+#ff8403
+
+
+blanco
+#f8f9fa
+
+
+negro brillante
+#010910
+
+negro original modelo
+#3a3939
+
+
+Blanco don Beto
+#fcffff
+
+Rojo don beto
+#ff3f34
