@@ -332,4 +332,9 @@ class Row1 extends StatelessWidget {
               style: TextStyle(fontSize: 18),
               overflow: TextOverflow.fade,
             ),
-      
+          ],
+        ),
+      ),
+    );
+  }
+}
