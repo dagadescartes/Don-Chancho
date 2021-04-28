@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389805396561",
+    "project_id": "donchancho-60502",
+    "storage_bucket": "donchancho-60502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389805396561:android:e8308a690d0b85232cde70",
+        "android_client_info": {
+          "package_name": "com.example.demo_diego_lechona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389805396561-91aqea8036cmffcn1ejaaiej6upp8rh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZzKs31M4WEuasf9kekuRP7W0lUmoqBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389805396561-91aqea8036cmffcn1ejaaiej6upp8rh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

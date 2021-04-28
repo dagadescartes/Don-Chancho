@@ -1,0 +1,602 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+MERGED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+MERGED from [:mapbox_gl] D:\Downloads\Don-Chancho\Donchancho-main\build\mapbox_gl\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\Downloads\Don-Chancho\Donchancho-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\21a12e7dce65ebea00e6389ffec494d4\mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\002d6378f54a6dbb3236ce46092c332b\mapbox-android-plugin-localization-v9-0.12.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:2:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6443ae7a778b781ffea0d98af383755f\exifinterface-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\85416d452c9cf640bd115cf9b3af300a\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\657362b820244944eb1266722f3e3fb9\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\808fc7aeb4d5622cb496e1889473d6fb\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7fc09dcaaa29a8af681692635ab09400\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a0db6f86caa05a408035c44ef36d283b\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\79dc6550c58d6d48a31517eda9481394\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d95041a6b320ad90997da175098e7dfa\firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:15:1-49:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4a1b76dd3c4035c491b99b70fc0c8e6b\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\773a75bd444cbbd7f6bef8fba7a4c9a0\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6ee022752bc1e9e8fce3f4c3d9ac3384\mapbox-android-gestures-0.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6a7648000b9c65c35337a8fffdeefbcf\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\fdae75cc3f0ce259fdd0773cbdab66b8\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\dc210b56099089e9fe957ed4905498be\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\40cad443c0f5031f7cad1b610e370991\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\17f6792954b6d4fd5671afbf6fa31fc2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5f7874f1fff77123cf612c671df5a2ea\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d2ef77a36cdcb0a42b5b3a176cd02888\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7b92bd2afae2f46ddf18f05167231933\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d684692ec3a67272ca677074e7aabe9\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\0ca260bc0913030668de1ac620491e9c\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4516e940d4be20e1967b4b0168e35841\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\9dd05f440a9a77884988b05112bd5b07\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d8b4784767093633fb259efa639ac432\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\399cd701d30fd8657c9d8af294d96269\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\cf13a4c277815c189e786afd0e98c208\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d4670e24d5f3dfeb35d1e668f2e6e21f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a4100e93e9813632e09337f863bbff71\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3046d0de57fa7c693b93a787adab3639\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\1c4780f1ee6a0c272603c53a09d84dca\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\df1a237b7e4601c12501ff78ad3f7442\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\607497091e295da167f3a1e11db7bb1e\mapbox-android-accounts-0.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\52bbfcb621044ee1d9ac70d4c76fa221\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b66204b097051390ff693e11b107a7b5\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a89c1a9532b00b080d8c2f6ad57a92ce\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3f815b3d19b822b3dff4a5ea8aec203c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7742c99fcabad0907db8e14df9ce6347\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\740734fd9f6ed387df357c7349d790ae\jetified-firebase-components-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4d5514e62eb8e5a150d40bdc7a25b04a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\031618e96c19cbca4deb84c8c61596be\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\c9188dbf0c2d8cd9baa21330f5dd5aa8\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b4bd2656a2d8b13c3999292eb80d9479\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\077d64f3d10806f8d6187fcbaf8ad119\jetified-timber-4.7.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d154a8bee924597e84d1c5ec6700a896\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ab40327e9091fc54fa9e889b74cb1ae4\grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2ece9a80a1d2c89133a128bb719a7152\mapbox-android-core-2.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2f1d8eac36c1647286a43c48a04ec664\protolite-well-known-types-17.1.1\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:1-50:12
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:8:5-49:19
+MERGED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-20:19
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:9:5-20:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\85416d452c9cf640bd115cf9b3af300a\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\85416d452c9cf640bd115cf9b3af300a\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a0db6f86caa05a408035c44ef36d283b\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a0db6f86caa05a408035c44ef36d283b\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\79dc6550c58d6d48a31517eda9481394\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\79dc6550c58d6d48a31517eda9481394\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:25:5-47:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4a1b76dd3c4035c491b99b70fc0c8e6b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4a1b76dd3c4035c491b99b70fc0c8e6b\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:17:5-27:19
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:17:5-27:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b66204b097051390ff693e11b107a7b5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b66204b097051390ff693e11b107a7b5\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\077d64f3d10806f8d6187fcbaf8ad119\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\077d64f3d10806f8d6187fcbaf8ad119\jetified-timber-4.7.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d154a8bee924597e84d1c5ec6700a896\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d154a8bee924597e84d1c5ec6700a896\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:9:9-57
+meta-data#com.mapbox.token
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:13:9-166
+	android:value
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:13:52-164
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:13:20-51
+activity#com.example.demo_diego_lechona.MainActivity
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:15:9-43:20
+	android:launchMode
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:17:13-43
+	android:hardwareAccelerated
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:20:13-47
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:21:13-55
+	android:configChanges
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:19:13-163
+	android:theme
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:16:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:28:15-52
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:27:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:35:13-38:17
+	android:resource
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:37:15-61
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:36:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:41:27-74
+meta-data#flutterEmbedding
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:46:9-48:33
+	android:value
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:48:13-30
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml:47:13-44
+uses-sdk
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+MERGED from [:mapbox_gl] D:\Downloads\Don-Chancho\Donchancho-main\build\mapbox_gl\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:mapbox_gl] D:\Downloads\Don-Chancho\Donchancho-main\build\mapbox_gl\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Downloads\Don-Chancho\Donchancho-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\Downloads\Don-Chancho\Donchancho-main\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\21a12e7dce65ebea00e6389ffec494d4\mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-annotation-v9:0.9.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\21a12e7dce65ebea00e6389ffec494d4\mapbox-android-plugin-annotation-v9-0.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\002d6378f54a6dbb3236ce46092c332b\mapbox-android-plugin-localization-v9-0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-localization-v9:0.12.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\002d6378f54a6dbb3236ce46092c332b\mapbox-android-plugin-localization-v9-0.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6443ae7a778b781ffea0d98af383755f\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6443ae7a778b781ffea0d98af383755f\exifinterface-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\85416d452c9cf640bd115cf9b3af300a\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\85416d452c9cf640bd115cf9b3af300a\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\657362b820244944eb1266722f3e3fb9\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\657362b820244944eb1266722f3e3fb9\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\808fc7aeb4d5622cb496e1889473d6fb\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\808fc7aeb4d5622cb496e1889473d6fb\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7fc09dcaaa29a8af681692635ab09400\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7fc09dcaaa29a8af681692635ab09400\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a0db6f86caa05a408035c44ef36d283b\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a0db6f86caa05a408035c44ef36d283b\play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\79dc6550c58d6d48a31517eda9481394\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\79dc6550c58d6d48a31517eda9481394\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d95041a6b320ad90997da175098e7dfa\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d95041a6b320ad90997da175098e7dfa\firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4a1b76dd3c4035c491b99b70fc0c8e6b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4a1b76dd3c4035c491b99b70fc0c8e6b\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\773a75bd444cbbd7f6bef8fba7a4c9a0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\773a75bd444cbbd7f6bef8fba7a4c9a0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6ee022752bc1e9e8fce3f4c3d9ac3384\mapbox-android-gestures-0.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-gestures:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6ee022752bc1e9e8fce3f4c3d9ac3384\mapbox-android-gestures-0.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6a7648000b9c65c35337a8fffdeefbcf\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6a7648000b9c65c35337a8fffdeefbcf\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\fdae75cc3f0ce259fdd0773cbdab66b8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\fdae75cc3f0ce259fdd0773cbdab66b8\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\dc210b56099089e9fe957ed4905498be\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\dc210b56099089e9fe957ed4905498be\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\40cad443c0f5031f7cad1b610e370991\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\40cad443c0f5031f7cad1b610e370991\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\17f6792954b6d4fd5671afbf6fa31fc2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\17f6792954b6d4fd5671afbf6fa31fc2\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5f7874f1fff77123cf612c671df5a2ea\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5f7874f1fff77123cf612c671df5a2ea\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d2ef77a36cdcb0a42b5b3a176cd02888\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d2ef77a36cdcb0a42b5b3a176cd02888\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7b92bd2afae2f46ddf18f05167231933\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7b92bd2afae2f46ddf18f05167231933\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d684692ec3a67272ca677074e7aabe9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d684692ec3a67272ca677074e7aabe9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\0ca260bc0913030668de1ac620491e9c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\0ca260bc0913030668de1ac620491e9c\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4516e940d4be20e1967b4b0168e35841\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4516e940d4be20e1967b4b0168e35841\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\9dd05f440a9a77884988b05112bd5b07\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\9dd05f440a9a77884988b05112bd5b07\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d8b4784767093633fb259efa639ac432\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d8b4784767093633fb259efa639ac432\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\399cd701d30fd8657c9d8af294d96269\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\399cd701d30fd8657c9d8af294d96269\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\cf13a4c277815c189e786afd0e98c208\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\cf13a4c277815c189e786afd0e98c208\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d4670e24d5f3dfeb35d1e668f2e6e21f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d4670e24d5f3dfeb35d1e668f2e6e21f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\03de50801950aab64f0548832a05435c\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a4100e93e9813632e09337f863bbff71\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a4100e93e9813632e09337f863bbff71\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3046d0de57fa7c693b93a787adab3639\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3046d0de57fa7c693b93a787adab3639\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\1c4780f1ee6a0c272603c53a09d84dca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\1c4780f1ee6a0c272603c53a09d84dca\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\df1a237b7e4601c12501ff78ad3f7442\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\df1a237b7e4601c12501ff78ad3f7442\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\607497091e295da167f3a1e11db7bb1e\mapbox-android-accounts-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-accounts:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\607497091e295da167f3a1e11db7bb1e\mapbox-android-accounts-0.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\52bbfcb621044ee1d9ac70d4c76fa221\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\52bbfcb621044ee1d9ac70d4c76fa221\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b66204b097051390ff693e11b107a7b5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b66204b097051390ff693e11b107a7b5\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a89c1a9532b00b080d8c2f6ad57a92ce\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\a89c1a9532b00b080d8c2f6ad57a92ce\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3f815b3d19b822b3dff4a5ea8aec203c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\3f815b3d19b822b3dff4a5ea8aec203c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7742c99fcabad0907db8e14df9ce6347\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\7742c99fcabad0907db8e14df9ce6347\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\740734fd9f6ed387df357c7349d790ae\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\740734fd9f6ed387df357c7349d790ae\jetified-firebase-components-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4d5514e62eb8e5a150d40bdc7a25b04a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4d5514e62eb8e5a150d40bdc7a25b04a\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\031618e96c19cbca4deb84c8c61596be\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\031618e96c19cbca4deb84c8c61596be\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\c9188dbf0c2d8cd9baa21330f5dd5aa8\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\c9188dbf0c2d8cd9baa21330f5dd5aa8\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b4bd2656a2d8b13c3999292eb80d9479\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\b4bd2656a2d8b13c3999292eb80d9479\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\077d64f3d10806f8d6187fcbaf8ad119\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\077d64f3d10806f8d6187fcbaf8ad119\jetified-timber-4.7.1\AndroidManifest.xml:5:5-43
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d154a8bee924597e84d1c5ec6700a896\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\d154a8bee924597e84d1c5ec6700a896\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ab40327e9091fc54fa9e889b74cb1ae4\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ab40327e9091fc54fa9e889b74cb1ae4\grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2ece9a80a1d2c89133a128bb719a7152\mapbox-android-core-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2ece9a80a1d2c89133a128bb719a7152\mapbox-android-core-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2f1d8eac36c1647286a43c48a04ec664\protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.1.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2f1d8eac36c1647286a43c48a04ec664\protolite-well-known-types-17.1.1\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:16:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:16:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:27:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:15:5-67
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\Downloads\Don-Chancho\Donchancho-main\android\app\src\debug\AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+MERGED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:33:9-46:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] D:\Downloads\Don-Chancho\Donchancho-main\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-67
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\Downloads\Don-Chancho\Donchancho-main\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_storage\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\Downloads\Don-Chancho\Donchancho-main\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+activity#com.mapbox.mapboxsdk.plugins.offline.ui.OfflineActivity
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:12:9-14:125
+	android:configChanges
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:14:13-122
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:13:13-83
+service#com.mapbox.mapboxsdk.plugins.offline.offline.OfflineDownloadService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-plugin-offline-v9:0.7.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\61d815745646042f0a66c9056dd5f4f0\jetified-mapbox-android-plugin-offline-v9-0.7.0\AndroidManifest.xml:18:13-95
+uses-feature#0x00020000
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:11:9-32
+uses-feature#android.hardware.wifi
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:13:9-45
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:17:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:26:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:13:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ab40327e9091fc54fa9e889b74cb1ae4\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ab40327e9091fc54fa9e889b74cb1ae4\grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2ece9a80a1d2c89133a128bb719a7152\mapbox-android-core-2.0.1\AndroidManifest.xml:11:5-79
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-core:2.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\2ece9a80a1d2c89133a128bb719a7152\mapbox-android-core-2.0.1\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:18:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:14:5-76
+MERGED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-sdk:9.2.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\5d7520105ec1181436b0c301df214754\jetified-mapbox-android-sdk-9.2.0\AndroidManifest.xml:19:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:20.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\223e15cbb0bd7b0884d476c40e0abb61\jetified-firebase-auth-20.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:22.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\4e370baf030f337b2fda1c61c3e06e65\jetified-firebase-firestore-22.0.1\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\945fa6f7bb270170c8a9e0a249c75144\firebase-storage-19.2.1\AndroidManifest.xml:34:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\ad08fb773c69b19de92892951f06f3c3\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.firebase.components:com.google.firebase.dynamicloading.DynamicLoadingRegistrar
+ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:43:13-45:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.5.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\db8d92b88ed9096e3d31561bf71656d1\jetified-firebase-common-19.5.0\AndroidManifest.xml:44:17-121
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\6377d0e91db1b2b76edd3b254e2915fe\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:12:22-65
+provider#com.mapbox.android.telemetry.provider.MapboxTelemetryInitProvider
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:18:9-22:39
+	android:authorities
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:20:13-79
+	android:exported
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:19:13-93
+service#com.mapbox.android.telemetry.errors.ErrorReporterJobIntentService
+ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:24:9-26:72
+	android:permission
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from [com.mapbox.mapboxsdk:mapbox-android-telemetry:5.0.1] C:\Users\Techingenieria\.gradle\caches\transforms-2\files-2.1\30c1e448bc31dab493f32a2ccc780663\jetified-mapbox-android-telemetry-5.0.1\AndroidManifest.xml:25:13-93
