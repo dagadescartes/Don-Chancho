@@ -2,7 +2,7 @@
 
 software mobile
 
-## Getting Started
+## Getting Inciar
 
 This project is a starting point for a Flutter application.
 
